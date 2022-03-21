@@ -1,6 +1,12 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83429879/159354275-c04ece9a-1a19-485f-9893-ba0c17641a0b.jpg" width="700px"/>
 </div>
+
+<p align="center">
+  I'm a 2nd year student of Computer Science at Universidade Federal do Espírito Santo (UFES). I love to study and learn new things, not only about technology, but about everything. Currently, i'm a front-end developer in making, but i'm also a big lover of the cybersec area, which i would love to work with someday.  </p>
+
+##
+
 <h3 align="center">Technology Stack</h3>
   <div align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,10 +30,8 @@
 
   <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/4d82a7caacc7ad5b7252b998247387b8.gif">
 </div>
-  
-  ##
  
-<div> 
+<div align="left"> 
   <a href="https://instagram.com/r_cozer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafael.cozer@edu.ufes.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rcozer1997/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
