@@ -1,12 +1,8 @@
-## Olá, sou Rafael Cozer
 <div align="center">
-  <a href="https://github.com/rcozer1997">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rcozer1997&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcozer1997&layout=compact&langs_count=7&theme=radical"/>
-
-
+<img src="https://user-images.githubusercontent.com/83429879/159354275-c04ece9a-1a19-485f-9893-ba0c17641a0b.jpg" width="700px"/>
 </div>
-<div style="display: inline_block"><br>
+<h3 align="center">Technology Stack</h3>
+  <div align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 
@@ -14,6 +10,18 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  ##
+<div align="center">
+  
+  <h3 align="center">My Github stats</h3>
+  <a href="https://github.com/rcozer1997">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rcozer1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcozer1997&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  ##
+</div>
+
   <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/4d82a7caacc7ad5b7252b998247387b8.gif">
 </div>
   
