@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  I'm a 2nd year student of Computer Science at Universidade Federal do Espírito Santo (UFES). I love to study and learn new things, not only about technology, but about everything. Currently, i'm a front-end developer in making, but i'm also a big lover of the cybersec area, which i would love to work with someday.  </p>
+  I'm a 2nd year student of Computer Science at Universidade Federal do Espírito Santo (UFES). I love to study and learn new things, not only about technology, but about everything. Currently, i'm a back-end developer in making, being trainee at meuguru.net, but expecting to become a full stack developer someday. I've been working specially with TypeScript, PostgreSQL, Prisma, Docker, NodeJS and Express. At university, i had big experience in C language and some experience in Java, at OOP (Object-Oriented Programming).
+  I'm also a big lover of the cybersec area, which i would love to have experiences with someday.  </p>
 
 ##
 
