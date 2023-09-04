@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  I'm a 2nd year student of Computer Science at Universidade Federal do Espírito Santo (UFES). I love to study and learn new things, not only about technology, but about everything. Currently, i'm a back-end developer in making, being trainee at meuguru.net, but expecting to become a full stack developer someday. I've been working specially with TypeScript, PostgreSQL, Prisma, Docker, NodeJS and Express. At university, i had big experience in C language and some experience in Java, at OOP (Object-Oriented Programming).
-  I'm also a big lover of the cybersec area, which i would love to have experiences with someday.  </p>
+  Welcome to my profile! I'm Rafael Cozer. I'm a Computer Science student at Universidade Federal do Espírito Santo (UFES), lover of back-end development and a Cybersecurity enthusiast. 
+  As backend experience, I've already worked with TypeScript and NodeJs, and now i'm focusing on C#/.NET learning.   </p>
 
 ##
 
