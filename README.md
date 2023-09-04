@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://a-static.besthdwallpaper.com/mario-s-room-wallpaper-2880x1800-38704_8.jpg" width="800px"/>
+<img src="https://a-static.besthdwallpaper.com/mario-s-room-wallpaper-2880x1800-38704_8.jpg" width="830px" height= "450px"/>
 </div>
 
 <p align="center">
