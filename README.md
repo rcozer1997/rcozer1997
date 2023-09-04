@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Welcome to my profile! I'm Rafael Cozer. I'm a Computer Science student at Universidade Federal do Espírito Santo (UFES), lover of back-end development and a Cybersecurity enthusiast. 
+  Welcome to my profile! I'm Rafael Cozer, a Computer Science student at Universidade Federal do Espírito Santo (UFES), lover of back-end development and a Cybersecurity enthusiast. 
   As backend experience, I've already worked with TypeScript and NodeJs in a REST API, and now i'm focusing on C#/.NET learning.  </p>
 
 ##
