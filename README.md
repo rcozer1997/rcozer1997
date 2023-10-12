@@ -3,23 +3,25 @@
 </div>
 
 <p align="center">
-  Welcome to my profile! I'm Rafael Cozer, a Computer Science student at Universidade Federal do Espírito Santo (UFES), lover of back-end development and a Cybersecurity enthusiast. 
-  As backend experience, I've already worked with TypeScript and NodeJs in a REST API, and now i'm focusing on C#/.NET learning.  </p>
+  Welcome to my profile! I'm Rafael Cozer, a Computer Science student at Universidade Federal do Espírito Santo (UFES), lover of back-end development and a Cybersecurity enthusiast.
+
+  
+  At the college, i had a big experience with Java and C, doing a lot of projects with that languages. As backend experience, I've already worked with TypeScript and NodeJs in a REST API. Now i'm focusing on Python learning, the language that i like the most. 
+  Also, even that my major focus is for the backend, i've been improving my frontend skills with JavaScript and React. </p>
 
 ##
 
 <h3 align="center">Technology Stack</h3>
   <div align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-
   <img align="center" alt="Rafa-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Rafa-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">  
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+  <img align="center" alt="Rafa-Py" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+  
            
           
           
@@ -48,6 +50,6 @@
   <a href = "mailto:rafael.cozer@edu.ufes.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rcozer1997/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rcozer1997/rcozer1997/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
