@@ -6,7 +6,7 @@
   Welcome to my profile! I'm Rafael Cozer, a Computer Science student at Universidade Federal do Espírito Santo (UFES), lover of back-end development and a Cybersecurity enthusiast.
 
   
-  At the college, i had a big experience with Java and C, doing a lot of projects with that languages. As backend experience, I've already worked with TypeScript and NodeJs in a REST API. Now i'm focusing on Python learning, the language that i like the most. 
+  At the college, i had a big experience with Java and C, doing a lot of projects with that languages. As backend experience, I've already worked with TypeScript and NodeJs in a REST API. Now i'm focusing on Python learning, specially for backend development with Django. 
   Also, even that my major focus is for the backend, i've been improving my frontend skills with JavaScript and React. </p>
 
 ##
